@@ -14,10 +14,11 @@
 
 .boxes {
     display: flex;
-    flex-wrap: nowrap; /* Prevent wrapping */
+    flex-wrap: nowrap;
     justify-content: space-around;
     margin-top: 20px;
     margin-bottom: 20px;
+	float: right;
 }
 
 .box {
