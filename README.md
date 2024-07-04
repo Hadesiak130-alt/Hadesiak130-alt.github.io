@@ -1,5 +1,5 @@
 # ARG
 
 List of features:
-- [] Start page
-- [] More...
+- [ ] Start page
+- [ ] More...
